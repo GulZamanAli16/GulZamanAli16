@@ -25,7 +25,7 @@
 - ⚡  Love Solving Real-World Problems with Code
 
 <br>
-
+<br>
 
 
 <!-- ========================= Tech Stack ========================= -->
@@ -78,7 +78,8 @@
 
 
 <!-- ====================== Featured Projects ====================== -->
-
+<br>
+<br>
 
 <h2 align="center">🚀 Featured Projects</h2>
 
@@ -211,6 +212,7 @@ A beautiful reading and verse application.
 </p>
 
 <br>
+<br>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Flutter-6+-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
@@ -226,7 +228,8 @@ A beautiful reading and verse application.
 ✨ <b>Passionate about building scalable, responsive, and user-friendly mobile applications.</b>
 </p>
 
-
+<br>
+<br>
 
 # 🔥 GitHub Streak
 
@@ -236,6 +239,8 @@ A beautiful reading and verse application.
 
 </div>
 
+<br>
+<br>
 
 # 📊 Contribution Graph
 
@@ -245,6 +250,8 @@ A beautiful reading and verse application.
 
 </div>
 
+<br>
+<br>
 
 # 🌱 Currently Learning
 
@@ -255,6 +262,8 @@ A beautiful reading and verse application.
 - 🧪 Unit Testing
 - ⚙️ CI/CD
 
+<br>
+<br>
 
 # 📫 Connect With Me
 
@@ -274,6 +283,8 @@ A beautiful reading and verse application.
 
 </p>
 
+<br>
+<br>
 
 # 💡 Quote
 
@@ -283,6 +294,8 @@ A beautiful reading and verse application.
 
 </div>
 
+<br>
+<br>
 
 <div align="center">
 
