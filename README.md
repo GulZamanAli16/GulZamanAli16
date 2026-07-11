@@ -1,163 +1,197 @@
 
-<h1 align="center">Hi 👋, I'm Gul Zaman Buriro</h1>
+<div align="center">
 
-<h3 align="center">Flutter Developer | Software Engineering Student | Mobile App Enthusiast</h3>
+# Hi 👋, I'm Gul Zaman Buriro
 
-<p align="center">
-I am passionate about building beautiful, responsive, and scalable mobile applications using Flutter. I enjoy solving real-world problems through technology and continuously learning new skills to become a better software engineer.
-</p>
+### 🚀 Flutter Developer | Software Engineering Student | Mobile App Enthusiast
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Flutter+Developer;Software+Engineering+Student;Firebase+%7C+REST+API+%7C+Dart;Always+Learning+New+Technologies;Open+to+Flutter+Developer+Opportunities" />
+
+<img src="https://komarev.com/ghpvc/?username=GulZamanAli16&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+## 💫 About Me
+
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 - 🎓 Software Engineering Student
-- 📱 Flutter Developer with 1+ years of experience
+- 📱 Flutter Developer with **1+ Years** of Experience
 - 💙 Passionate about Mobile App Development
-- 🌱 Currently learning Clean Architecture, Riverpod, Firebase & Advanced Flutter
-- 💼 Looking for Flutter Developer opportunities
-- 🚀 Always excited to learn new technologies
+- 🔥 Building Beautiful & Responsive Flutter Apps
+- 🌱 Currently Learning **Riverpod, Clean Architecture & Firebase**
+- 💼 Looking for Flutter Developer Opportunities
+- ⚡ Love Solving Real-World Problems with Code
+
+<br>
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### Mobile Development
-- Flutter
-- Dart
-- Android
+<div align="center">
 
-### Backend & Database
-- Firebase
-- REST APIs
-- SQLite
+### Mobile
 
-### Programming Languages
-- Java
-- C++
-- JavaScript
-- HTML
-- CSS
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio"/>
 
-### Tools
-- Git
-- GitHub
-- VS Code
-- Android Studio
-- Postman
+### Languages
+
+<img src="https://skillicons.dev/icons?i=java,cpp,js,html,css"/>
+
+### Database & Tools
+
+<img src="https://skillicons.dev/icons?i=sqlite,git,github,vscode,postman"/>
+
+</div>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 ### 🍔 Food Ordering App
-- User Authentication
-- Firebase Integration
-- Cart System
-- Responsive UI
-- Clean Navigation
+
+✅ Firebase Authentication
+
+✅ Shopping Cart
+
+✅ Responsive UI
+
+✅ Flutter & Dart
+
+---
 
 ### 💬 WhatsApp UI Clone
-- Chat Screen
-- Calls Screen
-- Status Screen
-- Responsive Flutter UI
+
+✅ Chat Screen
+
+✅ Status Screen
+
+✅ Calls Screen
+
+✅ Responsive Design
+
+---
 
 ### 🧮 iPhone Calculator
-- Pixel Perfect UI
-- Flutter Widgets
-- Responsive Design
+
+✅ Pixel Perfect UI
+
+✅ Responsive Layout
+
+✅ Flutter Widgets
+
+---
 
 ### 🎲 Lottery App
-- Random Number Generator
-- Beautiful Flutter UI
 
-### ❤️ Heart Attack Prediction System
-- Machine Learning Project
-- Python
-- Random Forest Algorithm
-- 99% Accuracy
+✅ Random Number Generator
+
+✅ Beautiful UI
 
 ---
 
-## 🌱 Currently Learning
+### ❤️ Heart Attack Prediction
 
-- Riverpod
-- Bloc
-- Clean Architecture
-- Firebase Cloud Messaging
-- Unit Testing
-- CI/CD
+✅ Machine Learning
+
+✅ Python
+
+✅ Random Forest
+
+✅ 99% Accuracy
 
 ---
 
-## 📈 GitHub Stats
+# 📈 GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GulZamanAli16&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GulZamanAli16&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=GulZamanAli16&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=GulZamanAli16&theme=tokyonight&no-frame=true&row=2&column=4"/>
+
+</div>
+
+---
+
+# 📊 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GulZamanAli16&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🌱 Currently Learning
+
+- 🚀 Riverpod
+- 📦 Bloc State Management
+- 🏗️ Clean Architecture
+- 🔥 Firebase Cloud Messaging
+- 🧪 Unit Testing
+- ⚙️ CI/CD
+
+---
+
+# 📫 Connect With Me
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+<a href="mailto:your-email@example.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+<a href="https://linkedin.com/in/your-linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+<a href="https://github.com/GulZamanAli16">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+# 💡 Quote
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onedark&row=1&column=7"/>
+> **"First, solve the problem. Then, write the code."** – John Johnson
 
-</p>
-
----
-
-## 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
-
-</p>
+</div>
 
 ---
 
-## 📫 Connect With Me
+<div align="center">
 
-- 📧 Email: your.email@example.com
-- 💼 LinkedIn: https://linkedin.com/in/your-linkedin
-- 🌐 Portfolio: https://yourportfolio.com
+### ⭐ Thanks for Visiting My Profile ⭐
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A5ACD&height=120&section=footer"/>
 
-## 💡 Fun Fact
-
-> I enjoy transforming ideas into real mobile applications using Flutter.
-
----
-
-## 👀 Profile Views
-
-<p align="left">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
-
-</p>
-
----
-
-<h3 align="center">
-⭐ Thanks for visiting my profile! ⭐
-</h3>
-```
+</div>
