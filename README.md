@@ -3,7 +3,7 @@
 
 # Hi 👋, I'm Gul Zaman Buriro
 
-### 🚀 Flutter Developer | Software Engineering Student | Mobile App Enthusiast
+### 🚀 Flutter Developer | Software Engineer | Mobile App Enthusiast
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Flutter+Developer;Software+Engineering+Student;Firebase+%7C+REST+API+%7C+Dart;Always+Learning+New+Technologies;Open+to+Flutter+Developer+Opportunities" />
 
@@ -18,10 +18,9 @@
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 - 🎓 Software Engineering Student
-- 📱 Flutter Developer with **1+ Years** of Experience
+- 📱  Flutter Developer with **2+ Years** of Experience
 - 💙 Passionate about Mobile App Development
-- 🔥 Building Beautiful & Responsive Flutter Apps
-- 🌱 Currently Learning **Riverpod, Clean Architecture & Firebase**
+- 🔥  Building Beautiful & Responsive Flutter Apps
 - 💼 Looking for Flutter Developer Opportunities
 - ⚡ Love Solving Real-World Problems with Code
 
@@ -43,7 +42,7 @@
 
 ### Database & Tools
 
-<img src="https://skillicons.dev/icons?i=sqlite,git,github,vscode,postman"/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,vscode,git,github,sqlite,postman" />
 
 </div>
 
