@@ -17,12 +17,12 @@
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-- 🎓 Software Engineering Student
-- 📱  Flutter Developer with **2+ Years** of Experience
-- 💙 Passionate about Mobile App Development
+- 🎓  Software Engineering Student
+- 📱   Flutter Developer with **2+ Years** of Experience
+- 💙  Passionate about Mobile App Development
 - 🔥  Building Beautiful & Responsive Flutter Apps
-- 💼 Looking for Flutter Developer Opportunities
-- ⚡ Love Solving Real-World Problems with Code
+- 💼  Looking for Flutter Developer Opportunities
+- ⚡  Love Solving Real-World Problems with Code
 
 <br>
 
@@ -77,61 +77,138 @@
 </p>
 ---
 
-# 🚀 Featured Projects
+<!-- ====================== Featured Projects ====================== -->
 
-### 🍔 Food Ordering App
+<h2 align="center">🚀 Featured Projects</h2>
 
-✅ Firebase Authentication
+<p align="center">
+  <i>Building modern Flutter applications with clean architecture, Firebase integration, and AI-powered solutions.</i>
+</p>
 
-✅ Shopping Cart
+<table align="center">
+<tr>
 
-✅ Responsive UI
+<td width="50%">
 
-✅ Flutter & Dart
+### 🤖 AI Smart Study
+📚 AI-powered learning assistant for students.
+
+✨ Features
+- 🤖 AI Chat Assistant
+- 📄 Smart Notes
+- 🧠 Quiz Generation
+- 📈 Learning Progress
+- 📱 Responsive Flutter UI
+
+**Tech:** Flutter • Dart • Firebase • REST API
+
+</td>
+
+<td width="50%">
+
+### 🍔 Tasty Bites
+A modern food ordering application.
+
+✨ Features
+- 🍕 Food Categories
+- 🛒 Shopping Cart
+- 🔍 Search & Filter
+- 🔐 Firebase Authentication
+- 💳 Order Management
+
+**Tech:** Flutter • Firebase • SQLite
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🛍️ Shop Ease
+An elegant eCommerce mobile application.
+
+✨ Features
+- 🛒 Product Catalog
+- ❤️ Wishlist
+- 🔍 Smart Search
+- 📦 Order Tracking
+- 👤 User Authentication
+
+**Tech:** Flutter • Firebase • REST API
+
+</td>
+
+<td width="50%">
+
+### ☪️ Noor Islam
+Islamic companion application.
+
+✨ Features
+- 📖 Holy Quran
+- 🤲 Daily Duas
+- 🕌 Prayer Timings
+- 🧭 Qibla Direction
+- 🌙 Islamic Calendar
+
+**Tech:** Flutter • Firebase
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🏥 Medacre
+Healthcare & appointment management app.
+
+✨ Features
+- 👨‍⚕️ Doctor Appointments
+- 💊 Medicine Information
+- 📋 Medical Records
+- 🔔 Appointment Reminders
+- 📍 Hospital Locator
+
+**Tech:** Flutter • Firebase • Google Maps
+
+</td>
+
+<td width="50%">
+
+### 📖 Read Verse App
+A beautiful reading and verse application.
+
+✨ Features
+- 📚 Daily Reading
+- 🔖 Bookmarks
+- 🌙 Dark Mode
+- 🔍 Search
+- ❤️ Favorite Verses
+
+**Tech:** Flutter • Firebase • SQLite
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-### 💬 WhatsApp UI Clone
+<h3 align="center">⚡ Project Highlights</h3>
 
-✅ Chat Screen
+<p align="center">
 
-✅ Status Screen
+🟢 6+ Flutter Applications &nbsp; • &nbsp;
+🔥 Firebase Integration &nbsp; • &nbsp;
+📱 Responsive UI &nbsp; • &nbsp;
+🎨 Modern UI/UX &nbsp; • &nbsp;
+⚡ Clean Architecture &nbsp; • &nbsp;
+🔗 REST API Integration
 
-✅ Calls Screen
-
-✅ Responsive Design
-
----
-
-### 🧮 iPhone Calculator
-
-✅ Pixel Perfect UI
-
-✅ Responsive Layout
-
-✅ Flutter Widgets
-
----
-
-### 🎲 Lottery App
-
-✅ Random Number Generator
-
-✅ Beautiful UI
-
----
-
-### ❤️ Heart Attack Prediction
-
-✅ Machine Learning
-
-✅ Python
-
-✅ Random Forest
-
-✅ 99% Accuracy
-
----
+</p>
 
 # 📈 GitHub Statistics
 
