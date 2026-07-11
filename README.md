@@ -3,7 +3,7 @@
 
 # Hi 👋, I'm Gul Zaman Buriro
 
-### 🚀 Flutter Developer | Software Engineer | Mobile App Enthusiast
+### 🚀 Software Engineer | Flutter Developer | Mobile App Enthusiast
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Flutter+Developer;Software+Engineering+Student;Firebase+%7C+REST+API+%7C+Dart;Always+Learning+New+Technologies;Open+to+Flutter+Developer+Opportunities" />
 
@@ -20,7 +20,7 @@
 - 🎓  Software Engineering Student
 - 📱   Flutter Developer with **2+ Years** of Experience
 - 💙  Passionate about Mobile App Development
-- 🔥  Building Beautiful & Responsive Flutter Apps
+- 🔥   Building Beautiful & Responsive Flutter Apps
 - 💼  Looking for Flutter Developer Opportunities
 - ⚡  Love Solving Real-World Problems with Code
 
@@ -82,119 +82,38 @@
 <h2 align="center">🚀 Featured Projects</h2>
 
 <p align="center">
-  <i>Building modern Flutter applications with clean architecture, Firebase integration, and AI-powered solutions.</i>
+Building beautiful Flutter applications with modern UI, Firebase, REST APIs, and AI-powered solutions.
 </p>
 
-<table align="center">
-<tr>
+<div align="center">
 
-<td width="50%">
+| Project | Description | Tech |
+|:---|:---|:---:|
+| 🤖 **AI Smart Study** | AI-powered learning platform with smart notes, AI assistant, quizzes, progress tracking, and personalized learning. | Flutter • Firebase • AI |
+| 🍔 **Tasty Bites** | Food ordering application featuring authentication, categories, cart, search, and order management. | Flutter • Firebase |
+| 🛒 **Shop Ease** | Complete eCommerce application with wishlist, product catalog, search, authentication, and checkout flow. | Flutter • REST API |
+| ☪️ **Noor Islam** | Islamic app including Holy Quran, Duas, Prayer Timings, Qibla Direction, and Islamic Calendar. | Flutter • Firebase |
+| 🏥 **Medacre** | Healthcare application for doctor appointments, medical records, medicine reminders, and nearby hospitals. | Flutter • Google Maps |
+| 📖 **Read Verse** | Reading application with bookmarks, dark mode, favorite verses, and powerful search functionality. | Flutter • SQLite |
 
-### 🤖 AI Smart Study
-📚 AI-powered learning assistant for students.
+</div>
 
-✨ Features
-- 🤖 AI Chat Assistant
-- 📄 Smart Notes
-- 🧠 Quiz Generation
-- 📈 Learning Progress
-- 📱 Responsive Flutter UI
+<br>
 
-**Tech:** Flutter • Dart • Firebase • REST API
+<p align="center">
+<img src="https://img.shields.io/badge/Flutter-6+-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-Integrated-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/REST-API-00C853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Responsive-UI-7B1FA2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Clean-Architecture-0097A7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI-Powered-E91E63?style=for-the-badge"/>
+</p>
 
-</td>
+---
 
-<td width="50%">
-
-### 🍔 Tasty Bites
-A modern food ordering application.
-
-✨ Features
-- 🍕 Food Categories
-- 🛒 Shopping Cart
-- 🔍 Search & Filter
-- 🔐 Firebase Authentication
-- 💳 Order Management
-
-**Tech:** Flutter • Firebase • SQLite
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 🛍️ Shop Ease
-An elegant eCommerce mobile application.
-
-✨ Features
-- 🛒 Product Catalog
-- ❤️ Wishlist
-- 🔍 Smart Search
-- 📦 Order Tracking
-- 👤 User Authentication
-
-**Tech:** Flutter • Firebase • REST API
-
-</td>
-
-<td width="50%">
-
-### ☪️ Noor Islam
-Islamic companion application.
-
-✨ Features
-- 📖 Holy Quran
-- 🤲 Daily Duas
-- 🕌 Prayer Timings
-- 🧭 Qibla Direction
-- 🌙 Islamic Calendar
-
-**Tech:** Flutter • Firebase
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 🏥 Medacre
-Healthcare & appointment management app.
-
-✨ Features
-- 👨‍⚕️ Doctor Appointments
-- 💊 Medicine Information
-- 📋 Medical Records
-- 🔔 Appointment Reminders
-- 📍 Hospital Locator
-
-**Tech:** Flutter • Firebase • Google Maps
-
-</td>
-
-<td width="50%">
-
-### 📖 Read Verse App
-A beautiful reading and verse application.
-
-✨ Features
-- 📚 Daily Reading
-- 🔖 Bookmarks
-- 🌙 Dark Mode
-- 🔍 Search
-- ❤️ Favorite Verses
-
-**Tech:** Flutter • Firebase • SQLite
-
-</td>
-
-</tr>
-</table>
-
+<p align="center">
+✨ <b>Passionate about building scalable, responsive, and user-friendly mobile applications.</b>
+</p>
 ---
 
 <h3 align="center">⚡ Project Highlights</h3>
