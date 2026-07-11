@@ -5,7 +5,7 @@
 
 ### 🚀 Software Engineer | Flutter Developer | Mobile App Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Flutter+Developer;Software+Engineering+Student;Firebase+%7C+REST+API+%7C+Dart;Always+Learning+New+Technologies;Open+to+Flutter+Developer+Opportunities" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Flutter+Developer;Software+Engineer;+%7C+REST+API+%7;Always+Learning+New+Technologies;Open+to+Flutter+Developer+Opportunities" />
 
 <img src="https://komarev.com/ghpvc/?username=GulZamanAli16&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
