@@ -202,7 +202,7 @@ A beautiful reading and verse application.
 
 <p align="center">
 
-🟢 6+ Flutter Applications &nbsp; • &nbsp;
+🟢 30+ Flutter Applications &nbsp; • &nbsp;
 🔥 Firebase Integration &nbsp; • &nbsp;
 📱 Responsive UI &nbsp; • &nbsp;
 🎨 Modern UI/UX &nbsp; • &nbsp;
@@ -229,18 +229,6 @@ A beautiful reading and verse application.
 </p>
 ---
 
-<h3 align="center">⚡ Project Highlights</h3>
-
-<p align="center">
-
-🟢 30+ Flutter Applications &nbsp; • &nbsp;
-🔥 Firebase Integration &nbsp; • &nbsp;
-📱 Responsive UI &nbsp; • &nbsp;
-🎨 Modern UI/UX &nbsp; • &nbsp;
-⚡ Clean Architecture &nbsp; • &nbsp;
-🔗 REST API Integration
-
-</p>
 
 # 📈 GitHub Statistics
 
