@@ -78,7 +78,7 @@
 ---
 
 <!-- ====================== Featured Projects ====================== -->
-<!-- ====================== Featured Projects ====================== -->
+
 
 <h2 align="center">🚀 Featured Projects</h2>
 
@@ -196,7 +196,6 @@ A beautiful reading and verse application.
 </tr>
 </table>
 
----
 
 <h3 align="center">⚡ Project Highlights</h3>
 
@@ -222,7 +221,6 @@ A beautiful reading and verse application.
 <img src="https://img.shields.io/badge/AI-Powered-E91E63?style=for-the-badge"/>
 </p>
 
----
 
 <p align="center">
 ✨ <b>Passionate about building scalable, responsive, and user-friendly mobile applications.</b>
