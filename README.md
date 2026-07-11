@@ -75,7 +75,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:8A2BE2&height=120&section=footer"/>
 </p>
----
+
 
 <!-- ====================== Featured Projects ====================== -->
 
@@ -225,20 +225,8 @@ A beautiful reading and verse application.
 <p align="center">
 ✨ <b>Passionate about building scalable, responsive, and user-friendly mobile applications.</b>
 </p>
----
 
 
-# 📈 GitHub Statistics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GulZamanAli16&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GulZamanAli16&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
 
 # 🔥 GitHub Streak
 
@@ -248,17 +236,6 @@ A beautiful reading and verse application.
 
 </div>
 
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=GulZamanAli16&theme=tokyonight&no-frame=true&row=2&column=4"/>
-
-</div>
-
----
 
 # 📊 Contribution Graph
 
@@ -268,7 +245,6 @@ A beautiful reading and verse application.
 
 </div>
 
----
 
 # 🌱 Currently Learning
 
@@ -279,7 +255,6 @@ A beautiful reading and verse application.
 - 🧪 Unit Testing
 - ⚙️ CI/CD
 
----
 
 # 📫 Connect With Me
 
@@ -299,7 +274,6 @@ A beautiful reading and verse application.
 
 </p>
 
----
 
 # 💡 Quote
 
@@ -309,7 +283,6 @@ A beautiful reading and verse application.
 
 </div>
 
----
 
 <div align="center">
 
