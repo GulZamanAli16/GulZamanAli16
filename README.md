@@ -26,7 +26,7 @@
 
 <br>
 
----
+
 
 <!-- ========================= Tech Stack ========================= -->
 
@@ -95,11 +95,11 @@
 📚 AI-powered learning assistant for students.
 
 ✨ Features
-🤖 AI Chat Assistant
-📄 Smart Notes
-🧠 Quiz Generation
-📈 Learning Progress
-📱 Responsive Flutter UI
+- 🤖 AI Chat Assistant
+- 📄 Smart Notes
+- 🧠 Quiz Generation
+- 📈 Learning Progress
+- 📱 Responsive Flutter UI
 
 **Tech:** Flutter • Dart • Firebase • REST API
 
@@ -111,12 +111,12 @@
 A modern food ordering application.
 
 ✨ Features
-🍕 Food Categories
-🛒 Shopping Cart
-🔍 Search & Filter
-🔐 Firebase Authentication
-💳 Order Management
-
+- 🍕 Food Categories
+- 🛒 Shopping Cart
+- 🔍 Search & Filter
+- 🔐 Firebase Authentication
+- 💳 Order Management
+  
 **Tech:** Flutter • Firebase • SQLite
 
 </td>
@@ -131,11 +131,11 @@ A modern food ordering application.
 An elegant eCommerce mobile application.
 
 ✨ Features
-🛒 Product Catalog
-❤️ Wishlist
-🔍 Smart Search
-📦 Order Tracking
-👤 User Authentication
+- 🛒 Product Catalog
+- ❤️ Wishlist
+- 🔍 Smart Search
+- 📦 Order Tracking
+- 👤 User Authentication
 
 **Tech:** Flutter • Firebase • REST API
 
@@ -147,11 +147,11 @@ An elegant eCommerce mobile application.
 Islamic companion application.
 
 ✨ Features
-📖 Holy Quran
-🤲 Daily Duas
-🕌 Prayer Timings
-🧭 Qibla Direction
-🌙 Islamic Calendar
+- 📖 Holy Quran
+- 🤲 Daily Duas
+- 🕌 Prayer Timings
+- 🧭 Qibla Direction
+- 🌙 Islamic Calendar
 
 **Tech:** Flutter • Firebase
 
@@ -167,11 +167,11 @@ Islamic companion application.
 Healthcare & appointment management app.
 
 ✨ Features
-👨‍⚕️ Doctor Appointments
-💊 Medicine Information
-📋 Medical Records
-🔔 Appointment Reminders
-📍 Hospital Locator
+- 👨‍⚕️ Doctor Appointments
+- 💊 Medicine Information
+- 📋 Medical Records
+- 🔔 Appointment Reminders
+- 📍 Hospital Locator
 
 **Tech:** Flutter • Firebase • Google Maps
 
@@ -183,11 +183,11 @@ Healthcare & appointment management app.
 A beautiful reading and verse application.
 
 ✨ Features
-📚 Daily Reading
-🔖 Bookmarks
-🌙 Dark Mode
-🔍 Search
-❤️ Favorite Verses
+- 📚 Daily Reading
+- 🔖 Bookmarks
+- 🌙 Dark Mode
+- 🔍 Search
+- ❤️ Favorite Verses
 
 **Tech:** Flutter • Firebase • SQLite
 
