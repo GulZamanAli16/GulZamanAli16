@@ -78,25 +78,138 @@
 ---
 
 <!-- ====================== Featured Projects ====================== -->
+<!-- ====================== Featured Projects ====================== -->
 
 <h2 align="center">🚀 Featured Projects</h2>
 
 <p align="center">
-Building beautiful Flutter applications with modern UI, Firebase, REST APIs, and AI-powered solutions.
+  <i>Building modern Flutter applications with clean architecture, Firebase integration, and AI-powered solutions.</i>
 </p>
 
-<div align="center">
+<table align="center">
+<tr>
 
-| Project | Description | Tech |
-|:---|:---|:---:|
-| 🤖 **AI Smart Study** | AI-powered learning platform with smart notes, AI assistant, quizzes, progress tracking, and personalized learning. | Flutter • Firebase • AI |
-| 🍔 **Tasty Bites** | Food ordering application featuring authentication, categories, cart, search, and order management. | Flutter • Firebase |
-| 🛒 **Shop Ease** | Complete eCommerce application with wishlist, product catalog, search, authentication, and checkout flow. | Flutter • REST API |
-| ☪️ **Noor Islam** | Islamic app including Holy Quran, Duas, Prayer Timings, Qibla Direction, and Islamic Calendar. | Flutter • Firebase |
-| 🏥 **Medacre** | Healthcare application for doctor appointments, medical records, medicine reminders, and nearby hospitals. | Flutter • Google Maps |
-| 📖 **Read Verse** | Reading application with bookmarks, dark mode, favorite verses, and powerful search functionality. | Flutter • SQLite |
+<td width="50%">
 
-</div>
+### 🤖 AI Smart Study
+📚 AI-powered learning assistant for students.
+
+✨ Features
+- 🤖 AI Chat Assistant
+- 📄 Smart Notes
+- 🧠 Quiz Generation
+- 📈 Learning Progress
+- 📱 Responsive Flutter UI
+
+**Tech:** Flutter • Dart • Firebase • REST API
+
+</td>
+
+<td width="50%">
+
+### 🍔 Tasty Bites
+A modern food ordering application.
+
+✨ Features
+- 🍕 Food Categories
+- 🛒 Shopping Cart
+- 🔍 Search & Filter
+- 🔐 Firebase Authentication
+- 💳 Order Management
+
+**Tech:** Flutter • Firebase • SQLite
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🛍️ Shop Ease
+An elegant eCommerce mobile application.
+
+✨ Features
+- 🛒 Product Catalog
+- ❤️ Wishlist
+- 🔍 Smart Search
+- 📦 Order Tracking
+- 👤 User Authentication
+
+**Tech:** Flutter • Firebase • REST API
+
+</td>
+
+<td width="50%">
+
+### ☪️ Noor Islam
+Islamic companion application.
+
+✨ Features
+- 📖 Holy Quran
+- 🤲 Daily Duas
+- 🕌 Prayer Timings
+- 🧭 Qibla Direction
+- 🌙 Islamic Calendar
+
+**Tech:** Flutter • Firebase
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🏥 Medacre
+Healthcare & appointment management app.
+
+✨ Features
+- 👨‍⚕️ Doctor Appointments
+- 💊 Medicine Information
+- 📋 Medical Records
+- 🔔 Appointment Reminders
+- 📍 Hospital Locator
+
+**Tech:** Flutter • Firebase • Google Maps
+
+</td>
+
+<td width="50%">
+
+### 📖 Read Verse App
+A beautiful reading and verse application.
+
+✨ Features
+- 📚 Daily Reading
+- 🔖 Bookmarks
+- 🌙 Dark Mode
+- 🔍 Search
+- ❤️ Favorite Verses
+
+**Tech:** Flutter • Firebase • SQLite
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<h3 align="center">⚡ Project Highlights</h3>
+
+<p align="center">
+
+🟢 6+ Flutter Applications &nbsp; • &nbsp;
+🔥 Firebase Integration &nbsp; • &nbsp;
+📱 Responsive UI &nbsp; • &nbsp;
+🎨 Modern UI/UX &nbsp; • &nbsp;
+⚡ Clean Architecture &nbsp; • &nbsp;
+🔗 REST API Integration
+
+</p>
 
 <br>
 
