@@ -1,4 +1,4 @@
-```markdown
+
 <h1 align="center">Hi 👋, I'm Gul Zaman Buriro</h1>
 
 <h3 align="center">Flutter Developer | Software Engineering Student | Mobile App Enthusiast</h3>
