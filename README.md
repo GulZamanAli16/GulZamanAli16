@@ -28,24 +28,53 @@
 
 ---
 
-# 🛠️ Tech Stack
+<!-- ========================= Tech Stack ========================= -->
+
+<h2 align="center">🛠️ Tech Stack & Tools</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Flutter+Developer;Mobile+App+Developer;Firebase+%7C+REST+API;Always+Learning+New+Technologies" />
+</p>
 
 <div align="center">
 
-### Mobile
+## 📱 Mobile Development
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio"/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio&theme=dark" />
 
-### Languages
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=java,cpp,js,html,css"/>
+## 💻 Programming Languages
 
-### Database & Tools
+<img src="https://skillicons.dev/icons?i=java,cpp,js,html,css&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,vscode,git,github,sqlite,postman" />
+<br><br>
+
+## 🗄️ Database
+
+<img src="https://skillicons.dev/icons?i=firebase,sqlite&theme=dark" />
+
+<br><br>
+
+## ⚒️ Tools & Technologies
+
+<img src="https://skillicons.dev/icons?i=vscode,androidstudio,git,github,postman&theme=dark" />
+
+<br><br>
+
+## 🚀 Currently Exploring
+
+<img src="https://skillicons.dev/icons?i=flutter,firebase,git,github&theme=dark" />
 
 </div>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&no-frame=true&margin-w=15&margin-h=15&column=4"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:8A2BE2&height=120&section=footer"/>
+</p>
 ---
 
 # 🚀 Featured Projects
